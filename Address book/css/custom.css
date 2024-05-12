@@ -1,0 +1,17 @@
+.container{
+		width:80%;
+		height:auto;
+		margin-top:4%;
+		padding:2%; 
+		}
+.table{
+		margin-top:4%;
+		font-size:120%;
+		}
+#loaderImage{
+	display:none; 
+	position:absolute;
+	top:120px;
+	left:45%;
+	margin:7% auto 7% auto;
+}
